@@ -8,7 +8,8 @@ Un blog para el curso de Git y GitHub de Platzi
 * El flujo de trabajo de GitHub.
 * Las buenas prácticas.
 * Algunos trucos.
-* Creado por Platzi Team
+* Creado por Platzi Team.
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
 
 Como amable recordatorio **Este readme.md sólo es una práctica**. Diseñado como ejemplo. Se llegas hasta aquí te recomiendo [**ver el curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "**ver el curso**") 
